@@ -1,5 +1,4 @@
-# Assignment-1
-Analyzing new start-ups success rate:
+# Analyzing new start-ups success rate:
 
 1. What are three conclusions we can make about Kickstarter Campaigns given the provided data?
 
