@@ -2,6 +2,7 @@
 Analyzing new start-ups success rate:
 
 1. What are three conclusions we can make about Kickstarter Campaigns given the provided data?
+
 Conclusion #1: The trend for startups has been increasing from 2009 to 2015.  We see the total startups company were dropped in 2016 compares to the previous periods. (Starters Count Digram)
 
 Conclusion #2: Most of the startups data is collected in the U.S. and U.K.  It indicates the result in the dataset is mainly focus on the startups activities in the two countries. (Starters Count by Country)  It is also match with the total funding in each country.  (Funding by Country)
