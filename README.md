@@ -1,9 +1,12 @@
 # Analyzing new start-ups success rate:
 
+### Start-Ups by Category
 ![CategoryStats](Images/CategoryStats.PNG)
 
+### Start-Ups Reaching Their Goals
 ![GoalOutcomes](Images/GoalOutcomes.PNG)
 
+### Start-Ups Reaching Their Goals by Launch Date
 ![LaunchDate](Images/LaunchDateOutcomes.PNG)
 
 1. What are three conclusions we can make about Kickstarter Campaigns given the provided data?
